@@ -1,0 +1,2 @@
+alias copyssh="pbcopy < $HOME/.ssh/id_rsa.pub"
+alias shrug="echo '¯\_(ツ)_/¯' | pbcopy"
