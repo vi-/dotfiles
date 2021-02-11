@@ -26,7 +26,7 @@ This repo is here to simplify my process of getting a new machine "dev ready". I
    See: [Github Issue](https://github.com/Homebrew/homebrew-cask/issues/63083), [Medium Post](https://medium.com/@Aenon/mac-virtualbox-kernel-driver-error-df39e7e10cd8)
    **Note:** Security settigns will need to be updated within 30min of install / first launch, otherwise opt. disappears. If you done goofed, you will need to uninstall & re-install VirtualBox. Follow instructions here for complete [VirtualBox Uninstall](https://nektony.com/how-to/uninstall-virtualbox-on-mac).
 
-2. **MySQL & WordPress** when testing these scripts, WordPress would refuse to connect to MySQL db, even though connecting to it using the same credentials via command line was fine. [This comment](https://discourse.brew.sh/t/homebrew-php-7-4-upgrade-fails-on-macos-10-15-1-catalina/6372/14) of the thread solved the issue.
+2. **MySQL & WordPress** when testing these scripts, WordPress would refuse to connect to MySQL db, even though connecting to it using the same credentials via command line was fine. [This comment](https://discourse.brew.sh/t/homebrew-php-7-4-upgrade-fails-on-macos-10-15-1-catalina/6372/14) of the thread solved the issue. Another more in-depth [link to issue](https://stackoverflow.com/questions/51179516/sequel-pro-and-mysql-connection-failed?rq=10).
 
 ## Acknowledgements
 
