@@ -25,22 +25,33 @@ brew 'yarn'
 
 #Apps
 cask '1password'
+cask 'android-studio'
+cask 'brave-browser'
 cask 'dropbox'
+cask 'figma'
 cask 'firefox'
+cask 'github'
 cask 'google-chrome'
-cask 'ipvanish-vpn'
 cask 'hyper'
+cask 'kaleidoscope'
+cask 'karabiner-elements'
+cask 'logi-options-plus'
 cask 'mongodb-compass'
+cask 'nordvpn'
 cask 'principle'
 cask 'qbittorrent'
+cask 'raycast'
+cask 'react-native-debugger'
 cask 'sequel-pro'
 cask 'sketch'
-cask 'virtualbox'
-cask 'visual-studio-code'
 cask 'spotify'
+cask 'steam'
 cask 'sublime-text'
 cask 'transmit'
+cask 'virtualbox'
+cask 'visual-studio-code'
 cask 'vlc'
+cask 'zoom'
 
 # Quicklook
 cask 'qlcolorcode'
@@ -62,8 +73,9 @@ cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
 
 # Mac App Store
-mas 'Divvy', id: 413857545
 mas 'Bear', id: 1091189122
-mas 'Slack', id: 803453959
+mas 'Divvy', id: 413857545
+mas 'Harvest', id: 506189836
 mas 'LittleIpsum', id: 405772121
 mas 'Pixelmator Pro', id: 1289583905
+mas 'Slack', id: 803453959
